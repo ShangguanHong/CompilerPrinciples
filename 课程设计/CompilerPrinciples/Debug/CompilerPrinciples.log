@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+c:\users\fate\desktop\compilerprinciples\compilerprinciples\main.cpp(65): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fate\desktop\compilerprinciples\compilerprinciples\main.cpp(66): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fate\desktop\compilerprinciples\compilerprinciples\main.cpp(77): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fate\desktop\compilerprinciples\compilerprinciples\main.cpp(210): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fate\desktop\compilerprinciples\compilerprinciples\main.cpp(211): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fate\desktop\compilerprinciples\compilerprinciples\main.cpp(387): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fate\desktop\compilerprinciples\compilerprinciples\main.cpp(423): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fate\desktop\compilerprinciples\compilerprinciples\main.cpp(436): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fate\desktop\compilerprinciples\compilerprinciples\main.cpp(439): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fate\desktop\compilerprinciples\compilerprinciples\main.cpp(475): warning C4018: “<”: 有符号/无符号不匹配
+  CompilerPrinciples.vcxproj -> C:\Users\fate\Desktop\CompilerPrinciples\CompilerPrinciples\..\Debug\CompilerPrinciples.exe
+  CompilerPrinciples.vcxproj -> ..\Debug\CompilerPrinciples.pdb (Full PDB)

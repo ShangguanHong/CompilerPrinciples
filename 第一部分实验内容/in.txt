@@ -1,0 +1,5 @@
+procedure test;
+var 123a;
+begin
+    r.r := a; rr_rr := b;
+end

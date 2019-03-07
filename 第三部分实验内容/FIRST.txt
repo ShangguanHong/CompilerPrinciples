@@ -1,0 +1,3 @@
+FIRST(E) = FIRST(T) = FIRST(F) = { (, i }
+FIRST(E') = { +, ¦Å }
+FIRST(T') = { *, ¦Å }
